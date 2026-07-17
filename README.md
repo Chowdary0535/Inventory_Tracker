@@ -198,9 +198,9 @@ This project demonstrates:
 
 ## 👨‍💻 Author
 
-**Vinay Kumar Duggineni**
-
-Computer Science and Engineering (CSE)
-
-Full Stack Development Project
+Nmae:Vinay Kumar Duggineni
+Companny:CODTECH IT SOLUTIONS
+ID:CITS7256
+Mentor:Neela Santhosh Kumar
+Full Stack Web Development Project
 
