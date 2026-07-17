@@ -167,25 +167,6 @@ http://localhost:5000
 
 ---
 
-## 📷 Screenshots
-
-Add screenshots here after uploading them.
-
-```
-screenshots/
-├── home.png
-├── add-item.png
-├── edit-item.png
-```
-
-Example:
-
-```markdown
-![Home Page](screenshots/home.png)
-```
-
----
-
 ## 🔮 Future Enhancements
 
 - User Authentication (JWT)
