@@ -139,6 +139,9 @@ http://localhost:5000
 ```
 
 ---
+### Inventory List
+
+![Inventory List]<img width="1440" height="900" alt="Screenshot 2026-07-17 at 7 56 18 PM" src="https://github.com/user-attachments/assets/1abacdfa-7f53-41f3-b2f0-1836437fe4b9" />
 
 ## 📡 API Endpoints
 
